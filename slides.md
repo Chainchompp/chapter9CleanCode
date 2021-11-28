@@ -68,3 +68,8 @@ src: ./views/singleConcept.md
 src: ./views/FIRST.md
 ---
 
+---
+src: ./views/close.md
+---
+
+
